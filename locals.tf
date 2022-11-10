@@ -1,7 +1,7 @@
 locals {
-    project = "YOURPROJECTID"
+  project = "YOURPROJECTID"
 }
 
 output "project" {
-    value = local.project
+  value = local.project
 }
