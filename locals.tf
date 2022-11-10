@@ -1,5 +1,5 @@
 locals {
-    project = "rauchfussp-353413"
+    project = "YOURPROJECTID"
 }
 
 output "project" {
